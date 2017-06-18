@@ -1,0 +1,211 @@
+section{
+  width: 950px;
+  margin: auto;
+  background-color: #23353b;
+  font-family: sans-serif;
+}
+
+header{
+  position: relative;
+}
+
+    header > h1 >  span{
+      color: #96aba9;
+      }
+
+    #cornerImage{
+      width: 35px;
+      position: absolute;
+      top: 0;
+      right: 0;
+      margin-right: 15px;
+      margin-top: 10px;
+      border: 1px solid white;
+      }
+
+
+    h1{
+      color: white;
+      padding: 15PX;
+      margin: 0;
+      }
+
+    #tabBar > ul{
+      color: #96aba9;
+      list-style-type: none;
+      display: inline-block;
+      background : linear-gradient(#3d4f59, #1f3137);
+      width: 905px;
+      height: 25px;
+      margin:0;
+      }
+
+    #tabBar > ul > li{
+      display: inline-block;
+      border-right: 1px solid #416663 ;
+      text-align: center;
+      padding-left: 9px;
+      padding-right: 60px;
+      padding-bottom: 8px;
+      padding-top: 6px;
+      font-size: 12px;
+      }
+
+
+
+    #bannerImage{
+      width: 100%;
+      }
+
+    header > hr{
+      border: 1px solid black;
+      height: 19px;
+      margin: auto;
+      margin-top: -4px;
+      background : linear-gradient( to right, #4b655d, #263434);
+      }
+
+aside{
+  width: 13%;
+  display: inline-block;
+  margin-left: 5px;
+  /*border: 2px solid black;*/
+  vertical-align: top;
+  padding: 20px;
+  color: #96aba9;
+  font-size: 12px;
+      }
+
+    aside > input{
+      width: 65%;
+      }
+
+    #search1{
+      position: relative;
+      top: 4px;
+      border: 1px solid white;
+      }
+
+    aside > p{
+      margin: 0;
+      }
+
+    aside > input{
+      margin-bottom: 15px;
+      }
+
+
+    #notesTop, #notesBottom{
+      border: 1px solid #43555d;
+      margin-bottom: 15px;
+      font-size: 10px;
+      }
+
+
+
+    #notesTop h4 , #notesBottom h4 {
+      border: 1px solid #43555d;
+      margin : 0px;
+      padding-bottom: 7px;
+      background : linear-gradient(#3d4f59, #1f3137);
+      padding: 5px
+      }
+
+    .sample{
+      color: #bee583;
+      }
+
+
+    #info{
+      border: 1px solid #43555d;
+      color: white;
+      margin-bottom: 15px;
+      font-size: 10px;
+      background : linear-gradient(#132529, #385753);
+      padding-left: 5px;
+      padding-right: 5px;
+      }
+
+    p.info1{
+      margin-top: 0px;
+      }
+
+    #trees{
+      margin-bottom: 13px;
+      }
+
+
+
+main{
+  width: 80%;
+  display: inline-block;
+  border-radius: 3px;
+  display: inline-block;
+  background-color: #2e4d4a;
+  border-radius: 30px;
+  height: 750px;
+  /*border: 2px solid black*/
+}
+
+    #middle{
+      display: inline-block;
+      width: 50%;
+      font-size: 13px;
+      text-align: left;
+      padding-left: 25px;
+      height: 750px;
+      margin-top: 16px;
+      font-family: serif;
+      font-style: normal;
+      }
+
+
+    .rightAside{
+      display: inline-block;
+      width: 15%;
+      }
+
+    #middle p{
+      color: #96aba9;
+      margin-top: 0px;
+      }
+
+    #middle > h3{
+      color: white;
+      font-weight: normal;
+      margin-bottom: 0px
+      }
+
+    main > #middle > hr{
+      border: 1px solid #416663;
+      height: 3px;
+      }
+
+    p > span {
+      color: yellow;
+      }
+
+
+    .rightAside > img{
+      margin-bottom: 25px;
+      border: 1px solid white;
+      }
+
+    legend {
+      border: 1px solid  #416663;
+      font-size: 11px;
+      width: 60%;
+      margin-left: 15px;
+      color: white;
+      }
+
+    fieldset{
+      width: 119%;
+      padding-left: 5px;
+      margin-bottom: 25px;
+      border: 1px solid  #416663;
+      }
+
+    fieldset > P{
+      margin: 0;
+      }
